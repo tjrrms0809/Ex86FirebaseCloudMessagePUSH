@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "955215063099",
+    "firebase_url": "https://ex86firebasecloudmessagepusht.firebaseio.com",
+    "project_id": "ex86firebasecloudmessagepusht",
+    "storage_bucket": "ex86firebasecloudmessagepusht.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955215063099:android:6c104e8d618fc31df5141e",
+        "android_client_info": {
+          "package_name": "com.ahnsafety.ex86firebasecloudmessagepush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955215063099-s4a9u8gbk9teb9haperd5dom4656eh9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDapp9OwTBvS59tBLxr90ncnivWd37l3XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955215063099-s4a9u8gbk9teb9haperd5dom4656eh9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
